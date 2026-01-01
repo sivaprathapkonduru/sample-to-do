@@ -13,8 +13,8 @@ Use headers URL paths:-
 3. headers
 
 use cases:-
-1. with json
-2. with xml
-3. with form-data
-4. file uploads
+1. with json with all methods
+2. with xml with get and post
+3. with form-data get and post
+4. file uploads get and post
 5. json limits and file limits
